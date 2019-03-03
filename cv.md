@@ -16,7 +16,7 @@ A Junior Front-end Developer
 
 ## Sample of code
 
-[Adaptive layout Landing Page "Surface" with Flex-box](https://mrashchynskaya.github.io/mq-diploma-roshchynskaya) 
+[Adaptive layout Landing Page "Surface" with Flex-box](https://mrashchynskaya.github.io/mq-diploma-roshchynskaya)  
 [Adaptive layout Page "Trillo" with Flex-box](https://mrashchynskaya.github.io/Trillo2019/)
 
 ## Professional Experience
@@ -39,11 +39,11 @@ __HTML Developer__, `May 2018 — September 2018`
 ## Education
 
 `2015-2017`
-__Belarusian State University, Republic of Belarus__
+__Belarusian State University, Republic of Belarus__  
 Post-graduate, Web-desing and computer graphics
 
 `2009-2014`
-__Belarusian State Academy of Arts, Republic of Belarus__
+__Belarusian State Academy of Arts, Republic of Belarus__  
 Bachelor's degree, Marketing, PR-management
 
 ### Courses
